@@ -1,5 +1,8 @@
 # SQL 50
 
+<img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50" width="100">
+
+
 Repositório criado com minhas soluções para o LeetCode: [SQL 50](https://leetcode.com/studyplan/top-sql-50/).
 
 Os problemas foram resolvidos com a linguagem T-SQL (SQL Server).
